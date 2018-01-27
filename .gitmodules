@@ -1,0 +1,3 @@
+[submodule "external/titato-lib"]
+	path = external/titato-lib
+	url = https://github.com/Pavaka/titato-lib.git
